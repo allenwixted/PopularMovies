@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="error">Failed to get results, please try again.</string>
+</resources>
